@@ -1,3 +1,4 @@
+%pip install datasets
 
 from torchtext.data.utils import ngrams_iterator
 
